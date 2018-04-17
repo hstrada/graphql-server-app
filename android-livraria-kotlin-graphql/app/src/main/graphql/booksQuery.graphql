@@ -1,0 +1,6 @@
+query BooksQuery {
+    allBooks {
+        name
+        description
+    }
+}
